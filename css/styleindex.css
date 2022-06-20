@@ -51,6 +51,7 @@ header{
 	background-color: var(--color-rosa);
 	padding-top: 20px;
 	padding-bottom: 20px;
+	text-align: center;
 }
 
 #define h3{
@@ -94,5 +95,5 @@ header{
 footer{
 	background-color: var(--color-rosa);
 	color: var(--color-blanco);
-	padding-top: 20px;
+	padding-top: 25px;
 }

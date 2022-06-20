@@ -47,7 +47,7 @@ header{
 }
 
 footer{
-	background-color: var(--color-azul);
+	background-color: var(--color-verde);
 	color: var(--color-blanco);
 	padding-top: 10px;
 }
@@ -58,7 +58,7 @@ footer{
 
 h2{
 	text-align: center;
-	background-color: var(--color-rosa);
+	background-color: var(--color-azul);
 	color: var(--color-blanco);
 	font-size: 20px;
 }

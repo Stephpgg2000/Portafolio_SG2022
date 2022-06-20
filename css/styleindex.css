@@ -1,0 +1,97 @@
+:root{
+	--color-negro: #000000;
+	--color-verde: #AFD13C;
+	--color-azul: #1B8AA5;
+	--color-blanco: #FFFFFF;
+	--color-gris: #919191;
+	--color-rosa: #C71C73;
+}
+
+header{
+	background-color: var(--color-blanco);
+}
+
+#header-top{
+	background-color: var(--color-azul);
+	padding: 10px;
+}
+
+.list-top a{
+	color: var(--color-blanco);
+}
+
+
+#ctact{
+	color: var(--color-blanco);
+}
+
+#ctacto{
+	color: var(--color-blanco);
+}
+
+#logo{
+	margin-left: 100px;
+}
+
+#navbarNav{
+	margin-left: 200px;
+}
+
+.nav-link{
+	background-color: var(--color-verde);
+	border-radius: 5%;
+	text-indent: 2px;
+	padding-right: 5px;
+	font-size: 15px;
+	text-align: right;
+}
+
+#define{
+	background-color: var(--color-rosa);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#define h3{
+	color: var(--color-blanco);
+	text-align: center;
+}
+
+#define p{
+	color: var(--color-blanco);
+	text-align: center;
+}
+
+.fas{
+	color: var(--color-rosa);
+	font-size: 40px;
+	padding-top: 20px;
+	height: 60px;
+	width: 60px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.carousel-inner{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.btn-primary{
+	background-color: var(--color-azul);
+	border: 0;
+	padding: 10px 25px;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.btn-primary:hover{
+	background-color: white;
+	color: var(--color-azulc);
+}
+
+footer{
+	background-color: var(--color-rosa);
+	color: var(--color-blanco);
+	padding-top: 20px;
+}

@@ -1,0 +1,75 @@
+:root{
+	--color-negro: #000000;
+	--color-verde: #AFD13C;
+	--color-azul: #1B8AA5;
+	--color-blanco: #FFFFFF;
+	--color-gris: #919191;
+	--color-rosa: #C71C73;
+}
+
+header{
+	background-color: var(--color-blanco);
+}
+
+#header-top{
+	background-color: var(--color-rosa);
+	padding: 10px;
+}
+
+.list-top a{
+	color: var(--color-blanco);
+}
+
+
+#ctact{
+	color: var(--color-blanco);
+}
+
+#ctacto{
+	color: var(--color-blanco);
+}
+
+#logo{
+	margin-left: 80px;
+}
+
+#navbarNav{
+	margin-left: 200px;
+}
+
+.nav-link{
+	background-color: var(--color-verde);
+	border-radius: 5%;
+	text-indent: 2px;
+	padding-right: 5px;
+	font-size: 15px;
+	text-align: right;
+}
+
+footer{
+	background-color: var(--color-azul);
+	color: var(--color-blanco);
+	padding-top: 10px;
+}
+
+h3{
+	color: var(--color-blanco);
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: var(--color-verde);
+	font-size: 20px;
+}
+
+h5{
+	text-align: center;
+	font-weight: 400;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+h6{
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
